@@ -180,43 +180,19 @@ Sau khi chạy JMeter, chụp màn hình kết quả và lưu vào thư mục `s
 
 ### Kết quả GET /posts
 
-Chèn ảnh kết quả tại:
-
-```text
-screenshots/get-result.png
-```
-
-![Kết quả GET /posts](screenshots/get-result.png)
+<img src="./screenshots/get-result.png" alt="Kết quả GET /posts trong JMeter" width="900">
 
 ### Kết quả POST /posts
 
-Chèn ảnh kết quả tại:
-
-```text
-screenshots/post-result.png
-```
-
-![Kết quả POST /posts](screenshots/post-result.png)
+<img src="./screenshots/post-result.png" alt="Kết quả POST /posts trong JMeter" width="900">
 
 ### Kết quả PUT /posts/1
 
-Chèn ảnh kết quả tại:
-
-```text
-screenshots/put-result.png
-```
-
-![Kết quả PUT /posts/1](screenshots/put-result.png)
+<img src="./screenshots/put-result.png" alt="Kết quả PUT /posts/1 trong JMeter" width="900">
 
 ### Kết quả DELETE /posts/1
 
-Chèn ảnh kết quả tại:
-
-```text
-screenshots/delete-result.png
-```
-
-![Kết quả DELETE /posts/1](screenshots/delete-result.png)
+<img src="./screenshots/delete-result.png" alt="Kết quả DELETE /posts/1 trong JMeter" width="900">
 
 ## Ghi chú khi nộp bài
 
