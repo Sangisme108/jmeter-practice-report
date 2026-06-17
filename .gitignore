@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# JMeter generated files
+*.jtl
+*.log
+*.hprof
+report-output/
+results/
+
+# Temporary files
+tmp/
+temp/
